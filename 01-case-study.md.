@@ -1,0 +1,48 @@
+01 – RupeeRise Case Study
+
+1. Company Background
+
+RupeeRise is a fictional digital lending startup based in Bengaluru, India. The company aims to provide convenient and transparent digital credit services to customers through an online platform.
+
+2. Business Objective
+
+RupeeRise wants to understand India’s digital lending and UPI market before preparing an investor presentation. It needs reliable information about market growth, digital payment adoption, customer onboarding and RBI regulations.
+
+3. Research Requirements
+
+The company wants to collect information about:
+
+* India’s digital lending market.
+* UPI transaction volume and value.
+* Number of users onboarded on UPI.
+* Growth of digital financial services.
+* RBI rules and regulations applicable to digital lending.
+* Opportunities and challenges for digital lending startups.
+
+4. Problem Statement
+
+The company uses AI tools such as ChatGPT, Claude and Perplexity to prepare its investor brief.
+
+However, AI-generated information may contain incorrect numbers, outdated regulations, unsupported quotations or misleading citations.
+
+Using incorrect financial information could reduce the credibility of the investor presentation and lead to poor business decisions.
+
+5. Purpose of the Lab
+
+The purpose of this lab is to evaluate AI-generated financial information and verify its accuracy using reliable sources.
+
+The project will:
+
+1. Generate investor briefs using different AI tools.
+2. Compare their responses.
+3. Identify important factual claims.
+4. Assign confidence levels to the claims.
+5. Verify claims using official sources such as RBI, NPCI and PIB.
+6. Check whether AI citations genuinely support the information.
+7. Prepare a corrected investor brief.
+
+6. Expected Learning Outcome
+
+This case study will help students understand responsible AI usage, financial fact-checking, source verification and the importance of accuracy in fintech research.
+
+Important: RupeeRise is a fictional company. Its business performance and customer figures are not real.
