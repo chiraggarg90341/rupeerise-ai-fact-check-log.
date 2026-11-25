@@ -1,0 +1,38 @@
+Step 4 – Claims and AI Confidence
+
+Objective
+
+To identify factual claims from the original RupeeRise investor brief and evaluate the AI’s confidence, possible outdated information and recommended verification sources.
+
+Claim-by-Claim Analysis
+
+ID	Exact Claim from Original Brief	Confidence	May Be Outdated?	Verification Source
+C01	Digital loan sanctions grew from ₹0.15 trillion to ₹2.2 trillion in five years.	High	Yes	Redseer report
+C02	Bringing millions of previously underserved borrowers into the financial system.	Medium	Yes	Redseer report
+C03	Fintech lenders sanctioned 13.2 crore personal loans during FY2026.	High	Yes	FACE / Economic Times
+C04	These loans were worth ₹2.15 lakh crore.	High	Yes	FACE / Economic Times
+C05	They accounted for 77% of the total number of loans disbursed.	High	Yes	FACE / Economic Times
+C06	55.49 crore users were onboarded on UPI by June 2026.	High	Yes	PIB / Ministry of Finance
+C07	UPI processed 25.47 billion transactions in October 2026.	High	Yes	NPCI UPI Statistics
+C08	UPI transactions were worth ₹31.53 lakh crore in October 2026.	High	Yes	NPCI UPI Statistics
+C09	FY2026 UPI transaction volume grew approximately 30%.	High	Yes	PIB / Ministry of Finance
+C10	RBI/2025-26/36 – Reserve Bank of India (Digital Lending) Directions, 2025 requires APR and KFS disclosures.	High	Yes	RBI official circular
+C11	RBI/2022-23/111 – Guidelines on Digital Lending requires direct borrower–regulated lender fund flows.	High	Yes	RBI official circular
+C12	Harshvardhan Lunia stated: “For credit to reach these guys, it has to be typically cash-flow centric.”	High	Yes	ETBFSI publication
+
+Important Observations
+
+1. Market-size figures need clear definitions and reporting periods.
+2. The number of underserved borrowers needs supporting evidence.
+3. The 77% figure refers to loan count, not loan value.
+4. UPI statistics should be checked against official NPCI data.
+5. RBI circulars must be checked against the latest applicable directions.
+6. Industry quotations should be checked against their original publication and context.
+
+Conclusion
+
+The AI assigned High confidence to most of the claims. However, high confidence does not guarantee accuracy.
+
+Some information may be outdated, and some claims need clarification. Every financial figure, regulatory reference and quotation must be independently verified using reliable sources before it is included in an investor brief.
+
+The next step is to compare these claims with official RBI, NPCI and PIB information.
