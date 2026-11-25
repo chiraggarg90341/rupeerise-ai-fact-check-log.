@@ -1,0 +1,35 @@
+06 – Perplexity Citation Check
+
+Project: RupeeRise – AI Fact-Checking Lab
+Tool tested: Perplexity AI
+Purpose: To check whether AI-generated financial claims are supported by their cited sources.
+
+1. Claims Checked
+
+No.	Claim	Source URL	Source Publisher	Result
+1	UPI transaction volume and value in October 2026	[Paste link]	[Publisher]	[Supported / Partially supported / Not supported / Unverified]
+2	UPI users onboarded by June 2026	[Paste link]	[Publisher]	[Result]
+3	RBI Digital Lending Directions, 2025 – KFS and APR	[Paste link]	[Publisher]	[Result]
+4	Direct loan disbursal and repayment rules	[Paste link]	[Publisher]	[Result]
+
+2. Citation Evaluation
+
+For each citation, I checked:
+
+* Whether the link opened the original source.
+* Whether the source directly supported the claim.
+* Whether the source was official and reliable.
+* Whether the publication date was relevant.
+
+3. Key Findings
+
+1. A citation should be checked against the original source.
+2. Official sources such as RBI, NPCI and PIB are preferable for financial and regulatory facts.
+3. Some citations may support only part of a claim.
+4. AI-generated answers should not be treated as verified facts without checking the evidence.
+
+4. Conclusion
+
+Perplexity can help locate information and sources, but its citations must be checked manually. A source link alone does not prove that a claim is accurate.
+
+Note: The results above must be completed using the actual Perplexity response and links. No citation should be marked as verified without checking it.
