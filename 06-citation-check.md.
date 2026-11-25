@@ -1,0 +1,59 @@
+06 – Perplexity Citation Check
+
+Project: RupeeRise – AI Fact-Checking Lab
+Tool tested: Perplexity AI
+Purpose: To evaluate whether AI-generated financial claims are supported by reliable original sources.
+
+1. Claims Checked
+
+No.	Claim	Original source	Result
+1	UPI processed 25,466.70 million transactions worth ₹31,52,929.46 crore in October 2026.	NPCI UPI Statistics	Supported
+2	55.49 crore users were onboarded on UPI by June 2026.	PIB Release	Supported
+3	RBI’s digital-lending framework requires KFS and APR disclosures to borrowers.	RBI Digital Lending Directions, 2025	Supported with clarification
+4	Digital loan disbursal and repayment must follow the prescribed direct bank-account flow, without LSP pass-through or pool accounts, subject to permitted exceptions.	RBI Digital Lending Directions, 2025	Supported with clarification
+
+2. Citation Evaluation
+
+Claim 1 – UPI statistics
+
+* Publisher: National Payments Corporation of India (NPCI).
+* The October 2026 monthly statistics table confirms the transaction volume and value.
+* The page notes that same-account debit and credit transactions are excluded from August 2018 onward.
+* Result: Supported.
+
+Claim 2 – UPI users
+
+* Publisher: Press Information Bureau (PIB).
+* The release dated 20 July 2026 reports 55.49 crore users onboarded as of June 2026.
+* This is an onboarding figure, not a count of active or monthly transacting users.
+* Result: Supported.
+
+Claim 3 – KFS and APR
+
+* Publisher: Reserve Bank of India (RBI).
+* The RBI Digital Lending Directions, 2025 contain borrower-disclosure requirements.
+* The KFS and APR requirements should be read with the applicable RBI Responsible Business Conduct Directions and KFS instructions.
+* The 2022 Guidelines on Digital Lending are marked as repealed and should not be presented as the current standalone instrument.
+* Result: Supported with clarification.
+
+Claim 4 – Direct disbursal and repayment
+
+* Publisher: Reserve Bank of India (RBI).
+* Paragraph 9 of the RBI Digital Lending Directions, 2025 addresses loan disbursal, servicing and repayment.
+* The AIFI Credit Facilities Directions are specific to All India Financial Institutions; they should not be used as the only source for a general NBFC or digital-lending claim.
+* Result: Supported with clarification.
+
+3. Key Findings
+
+1. Official sources such as NPCI, PIB and RBI are preferable for financial and regulatory facts.
+2. A citation must directly support the claim it is attached to.
+3. Publication dates and reporting periods must not be confused.
+4. User-onboarding figures must not be described as active-user figures.
+5. Repealed RBI circulars should not be presented as current regulations.
+6. Regulatory applicability must be checked before applying a rule to a particular type of lender.
+
+4. Conclusion
+
+Perplexity can help identify relevant financial information and source documents. However, its citations must be checked against original sources. Even when a claim is broadly correct, its date, definition, regulatory applicability and exceptions must be examined before using it in an investor brief.
+
+Overall finding: The four claims were supported by official sources, but the RBI claims required more precise regulatory references and the PIB publication date needed correction.
